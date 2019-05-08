@@ -617,11 +617,11 @@ a.mailsticky:hover {
 
 /* taches chlens */
 
-ul#taches-chlens {
+ul#taches {
     list-style: none;
 }
 
-ul#taches-chlens li {
+ul#taches li {
     font-size: 0.8em;
 }
 
